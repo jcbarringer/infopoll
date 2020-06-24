@@ -1,0 +1,16 @@
+h1 {background-color: rgba(28,5,56,0.35);
+	align-items: center;
+	font-family: "Comic Sans MS";
+	font-size: 40px;text-align: center;margin: 0;}
+	p {font-family:"Comic Sans MS";text-indent: 550px;text-decoration-line: underline;
+		font-size:28px;font-weight: bold;}
+		li {display: inline;display:inline-block;
+			font-size:25px;
+			font-family:"Comic Sans MS";
+			margin-right: 200px;
+			margin-left: 50;
+		}
+		body {
+			background-image: url("https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80");
+			background-repeat: no-repeat;background-size: 2550px 1600px;padding: 0;margin: 0;
+		}
